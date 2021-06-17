@@ -27,3 +27,7 @@ now run the pass_sniffer.py in order to sniff the target host for possible crede
 ```
 python3 pass_sniffer.py
 ```
+
+## Developer
+* **Jeet Patel**
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/i-am-dope/)
